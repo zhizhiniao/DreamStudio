@@ -2,6 +2,8 @@
 
 Windows 本机视频内容工作台。支持视频导入与 YouTube 下载、字幕与配音、横竖封面、人工审核和发布准备。保留 Y2A-Auto 来源标识。
 
+当前正式版本为 **0.1.1**，提供 Windows x64 独立安装包；应用版本与 [v0.1.1 Release](https://github.com/zhizhiniao/DreamStudio/releases/tag/v0.1.1) 一致。
+
 ## 下载
 
 [Windows x64 安装包](https://github.com/zhizhiniao/DreamStudio/releases/latest/download/DreamStudio-Setup-x64.exe) · [发行记录](https://github.com/zhizhiniao/DreamStudio/releases)
