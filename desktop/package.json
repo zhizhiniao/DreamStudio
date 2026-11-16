@@ -1,0 +1,14 @@
+{
+  "name": "dreamroom",
+  "productName": "造梦室",
+  "version": "0.1.1",
+  "private": true,
+  "license": "GPL-3.0-or-later",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/*.test.cjs",
+    "build:windows": "node build-release.cjs"
+  },
+  "devDependencies": {"electron": "45.2.3", "rcedit": "5.0.1", "playwright": "1.65.0"}
+}

@@ -1,0 +1,3 @@
+FROM y2a-browser-publisher:xhs-state-20261007
+COPY service.py runner.py /publisher/
+LABEL local.extension="title-cover-20261008"

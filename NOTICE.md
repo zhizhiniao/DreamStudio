@@ -1,0 +1,1 @@
+Y2A-Auto: GPL-3.0-or-later; vendored publisher adapters: MIT (see vendor/publisher/vendor/LICENSE). Smiley Sans and other fonts retain their bundled licenses. CreatorHub is an external optional component and is not redistributed.

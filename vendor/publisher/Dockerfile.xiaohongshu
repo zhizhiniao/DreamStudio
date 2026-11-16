@@ -1,0 +1,4 @@
+FROM y2a-browser-publisher:dub-20261005
+COPY vendor/uploader/xiaohongshu_uploader /publisher/vendor/uploader/xiaohongshu_uploader
+COPY service.py runner.py state.py xiaohongshu.py /publisher/
+LABEL local.extension="xiaohongshu-20261007"

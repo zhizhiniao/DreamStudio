@@ -1,0 +1,41 @@
+{
+  "source": "https://www.minimax.cn/audio/voices",
+  "verified_at": "2026-10-17",
+  "voices": [
+    {
+      "id": "Chinese_casual_instructor_nv1",
+      "label": "活力讲师",
+      "preview_url": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/Chinese_casual_instructor.mp3"
+    },
+    {
+      "id": "Chinese_deep_voiced_male_nv1",
+      "label": "浑厚男声",
+      "preview_url": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/Chinese_deep_voiced_male.mp3"
+    },
+    {
+      "id": "Chinese (Mandarin)_Cute_Spirit",
+      "label": "憨憨萌兽",
+      "preview_url": "https://filecdn.minimax.chat/public/6c96de4b-9c08-4b17-a183-3d1512449ae4.mp3"
+    },
+    {
+      "id": "Chinese (Mandarin)_Sweet_Lady",
+      "label": "甜美女声",
+      "preview_url": "https://filecdn.minimax.chat/public/32dc9912-37f0-4398-bff1-79c4334a1e1a.wav"
+    },
+    {
+      "id": "Chinese (Mandarin)_Mature_Woman",
+      "label": "傲娇御姐",
+      "preview_url": "https://filecdn.minimax.chat/public/63e8ebff-5a36-488d-b6e2-87f6a1094f2a.mp3"
+    },
+    {
+      "id": "Chinese_patitent_teacher",
+      "label": "温柔女教师",
+      "preview_url": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/b70ae8e1-638f-4c53-9f4a-a358132a8dc6.mp3"
+    },
+    {
+      "id": "Chinese_huolishaonv",
+      "label": "元气少女",
+      "preview_url": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/e387ff24-6fa8-4de0-b811-b535df79bf50.mp3"
+    }
+  ]
+}

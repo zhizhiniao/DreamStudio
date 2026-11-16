@@ -1,0 +1,3 @@
+FROM y2a-browser-publisher:xiaohongshu-20261007
+COPY runner.py state.py xiaohongshu.py /publisher/
+LABEL local.extension="xiaohongshu-state-20261007"
